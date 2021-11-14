@@ -3,7 +3,7 @@
 <head>
 <link rel="stylesheet" type="text/css" href="css/home.css" >
 <!-- CSS only -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <title>Document</title>
 </head>
 	<body>
@@ -16,12 +16,34 @@
 				<li><a href="">FAQs</a></li>
 				<li><a href="">CONTACT US</a></li>
                 <li><a href="">ABOUT US</a></li>
-                <li class="login"><a href="">REGISTER</a></li>
+                <li class="login"><a href="">Sign Up</a></li>
 				<li class="login-1"><a href="">LOGIN</a></li>
 			</ul>
         </nav>
 		</section>
-        <div>
+        <div class="container">
+  			<div class="row">
+   			<div class="col">
+				   <div class="cl">
+      				<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/A90ijraxStiEoemCcNUn">
+					  <div>All-Access Subscription</div>
+					</div>	
+				</div>
+				
+    		<div class="col">
+				<div class="cl">
+				<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/KHTdHnlEQsy8RfIAl4Mm">
+    			</div>
+				</div>
+    		<div class="col">
+					<div class="cl">
+      				<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/BFMMlbcQvml9HSqXcvNp" alt="">
+    				</div>
+			</div>
+  			</div>
+		</div>
+		
+		<div>
         <footer class="panel-footer">
 	<div class="container">
 		<div class="row">
@@ -45,9 +67,16 @@
 			</section>
            
 		</div>
-		 <div class="text-center">
-            	&copy; Copyright Mohhala's Restaurant 2021
-            </div>
+		<div class="text-center">
+			 <span class="copy">
+				 &copy; Copyright Mohhala's Restaurant 2021
+			</span>
+			<span class="fac">
+			 <img src="https://cdn.fs.teachablecdn.com/yho35aJlSICjNd8Pe6Zk">
+			 <img src="https://cdn.fs.teachablecdn.com/YjXpg90MTCWsPzj9TI3g">
+			 <img src="https://cdn.fs.teachablecdn.com/d0LbDKI1SKq7DjycxGA4">
+			</span>
+        </div>
 	</div>
 </footer>
         </div>
